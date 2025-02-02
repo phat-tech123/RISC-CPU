@@ -14,7 +14,7 @@ Storing results to Memory or Accumulator. <br><br>
 *Instruction Register*: Processing instructions.<br>
 *Accumulator Register*: Processing data from ALU.<br>
 *ALU*: Processing data from Memory, Accumulator and Opcode of Instructions.<br>
-.
+
 ## Functional specification
 ### Program Counter:
 - The counter is used for tracking instruction execution and the program's status.
@@ -22,7 +22,6 @@ Storing results to Memory or Accumulator. <br><br>
 - When the reset signal is high, the counter returns to zero.
 - The width of the counter is 5.
 - The counter can load any number. On the other hand, it operates normally.
-
 
 ### Memory
 - The Memory stores instructions and data.
