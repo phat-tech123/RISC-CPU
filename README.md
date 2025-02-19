@@ -72,6 +72,10 @@ Utilize knowledge from **HDL logic design** and related subjects to design a sim
 - **1-bit read/write enable signal**.
 - Operates on the rising edge of the clock.
 
+## Architecture
+![Alt text](https://github.com/phat-tech123/RISC-CPU/blob/master/Screenshot%20from%202025-02-19%2010-02-35.png?raw=true)
+
+
 ## Getting Started
 ### Prerequisites
 - **FPGA Development Kit** (Arty-Z7)
