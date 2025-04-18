@@ -334,7 +334,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_jRK2_R-YZjEoNgDH3FX-52" value="&lt;span style=&quot;color: light-dark(rgb(26, 95, 180), rgb(237, 237, 237));&quot;&gt;&lt;span&gt;Halt&lt;br&gt;&lt;/span&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="748" y="3016" width="40" height="30" as="geometry" />
+          <mxGeometry x="712" y="3016" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_jRK2_R-YZjEoNgDH3FX-53" value="ADDRESS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="512" y="2856" width="80" height="30" as="geometry" />
